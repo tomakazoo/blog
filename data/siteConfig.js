@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: 'gatsby-starter-morning-dew',
-  siteDescription: 'A Gatsby theme/starter to build lightning-fast websites',
+  siteTitle: 'The power of Curiosity',
+  siteDescription: 'A hunger for knowledge is much the same as hunger for food',
   authorName: 'Maxence Poutord',
   twitterUsername: '_maxpou',
   authorAvatar: 'avatar.jpeg', // file in content/images
@@ -22,7 +22,7 @@ module.exports = {
   icon: 'content/images/baymax.png',
   postsPerPage: 6,
   disqusShortname: 'maxpou',
-  headerTitle: 'gatsby-starter-morning-dew',
+  headerTitle: 'The power of Curiosity',
   headerLinksIcon: 'baymax.png', //  (leave empty to disable: '')
   headerLinks: [
     {
@@ -33,10 +33,10 @@ module.exports = {
       label: 'About',
       url: '/about-gatsby-starter-morning-dew',
     },
-    {
-      label: 'Installation',
-      url: '/how-to-install',
-    },
+    // {
+    //   label: 'Installation',
+    //   url: '/how-to-install',
+    // },
   ],
   // Footer information (ex: Github, Netlify...)
   websiteHost: {
@@ -55,10 +55,10 @@ module.exports = {
           label: 'About',
           url: '/about-gatsby-starter-morning-dew',
         },
-        {
-          label: 'Installation',
-          url: '/how-to-install',
-        },
+        // {
+        //   label: 'Installation',
+        //   url: '/how-to-install',
+        // },
       ],
     },
     {
@@ -66,17 +66,17 @@ module.exports = {
       links: [
         {
           label: 'GitHub',
-          url: 'https://github.com/maxpou/gatsby-starter-morning-dew',
+          url: 'https://github.com/tomakazoo',
           rel: 'external',
         },
         {
-          label: 'Website',
-          url: 'https://www.maxpou.fr',
+          label: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/tomislav-babic-1569183/',
           rel: 'external',
         },
         {
           label: 'Twitter',
-          url: 'https://twitter.com/_maxpou',
+          url: 'https://twitter.com/Toma9869',
           rel: 'external',
         },
       ],
